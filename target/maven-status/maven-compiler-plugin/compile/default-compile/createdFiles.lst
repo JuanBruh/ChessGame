@@ -1,0 +1,17 @@
+com\mycompany\ajedrez\piezas\Ficha.class
+com\mycompany\ajedrez\piezas\Reina.class
+com\mycompany\ajedrez\piezas\estructuras\PilaString.class
+com\mycompany\ajedrez\Tablero.class
+com\mycompany\ajedrez\piezas\Caballo.class
+com\mycompany\ajedrez\BotRival.class
+com\mycompany\ajedrez\piezas\Rey.class
+com\mycompany\ajedrez\Ajedrez.class
+com\mycompany\ajedrez\CheckScanner.class
+com\mycompany\ajedrez\Move.class
+com\mycompany\ajedrez\piezas\Peon.class
+com\mycompany\ajedrez\piezas\Torre.class
+com\mycompany\ajedrez\piezas\estructuras\Nodo.class
+com\mycompany\ajedrez\piezas\estructuras\NodoArbol.class
+com\mycompany\ajedrez\piezas\Anfil.class
+com\mycompany\ajedrez\Input.class
+com\mycompany\ajedrez\piezas\estructuras\NodoString.class
